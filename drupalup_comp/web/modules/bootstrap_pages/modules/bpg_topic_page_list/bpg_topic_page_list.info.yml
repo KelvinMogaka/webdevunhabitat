@@ -1,0 +1,14 @@
+name: Bootstrap Topic Page List
+type: module
+description: Installs a Topic Page List View.
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Paragraphs
+dependencies:
+  - bootstrap_pages:bootstrap_pages
+  - views_menu_children_filter:views_menu_children_filter
+
+# Information added by Drupal.org packaging script on 2021-04-07
+version: '8.x-1.0-alpha5'
+project: 'bootstrap_pages'
+datestamp: 1617810051
